@@ -10,7 +10,7 @@ int r_min_val = 30;
 int l_max_val = 150;
 int l_min_val = 90;
 int min_len_val = 40;
-int y_tresh_val = 50;
+int y_tresh_val = 60;
 
 int main(int, char**)
 {

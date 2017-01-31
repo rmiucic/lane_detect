@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{877DDE66-DD43-4259-A6E3-FFE25E4A1B20}</ProjectGuid>
     <RootNamespace>lane_detect</RootNamespace>
